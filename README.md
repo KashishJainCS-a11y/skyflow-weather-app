@@ -4,12 +4,12 @@ A stunning, highly-polished single-page Weather Web Application built from scrat
 
 SkyFlow provides a premium, immersive weather dashboard with dynamic HSL gradient themes that change according to the weather (Clear, Cloudy, Rainy, Snowy, Stormy, Night), complete with custom keyframe-animated SVG weather icons, detailed metrics (apparent temperature, humidity indices, wind directions with compass rotation, UV index safety, pressure), and Apple-style daily temperature range bars.
 
-## 🚀 Live Preview
+##  Live Preview
 The app runs entirely in the browser and connects directly to the free, public **Open-Meteo API** (requiring no API keys or registration).
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Dynamic Weather Themes**: The interface background transitions smoothly through custom HSL gradients based on the current weather condition of the loaded city.
 - **Micro-Animations**: All weather representations (spinning suns, swaying moons, falling raindrops, spinning snowflakes, and flashing lightning bolts) are styled inline with high-performance CSS animations.
@@ -21,7 +21,7 @@ The app runs entirely in the browser and connects directly to the free, public *
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Markup**: HTML5 (Semantic Structure)
 - **Styling**: Vanilla CSS3 (Custom Properties, Glassmorphism, CSS Transitions, keyframe animations, Flexbox & Grid)
@@ -30,7 +30,7 @@ The app runs entirely in the browser and connects directly to the free, public *
 
 ---
 
-## 💻 How to Run Locally
+##  How to Run Locally
 
 Since this is a vanilla web application, you do not need to install complex node dependencies. 
 
